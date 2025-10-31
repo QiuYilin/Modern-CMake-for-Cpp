@@ -1,3 +1,4 @@
+//用run()取代main()用来测试main
 #include <iostream>
 #include "calc.h"
 using namespace std;
